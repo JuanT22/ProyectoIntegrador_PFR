@@ -1,9 +1,3 @@
-¡Excelente noticia, Juan! Me alegra que todo haya compilado y ejecutado a la primera. Eso demuestra que tienes el entorno de Scala bien configurado.
-
-Aquí tienes el archivo `README.md` **final y profesional**, redactado para cumplir punto por punto con los requisitos de tu docente. He documentado técnicamente las decisiones que tomamos en el código (como el uso de `Tototoshi` para CSV y `Circe` para JSON).
-
-Copia y pega el siguiente contenido en el archivo `README.md` en la raíz de tu proyecto.
-
 ---
 
 ```markdown
