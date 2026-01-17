@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Proyecto Integrador: Análisis de Datos de Películas con Scala
 
