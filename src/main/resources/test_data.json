@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "user_name": "JuanT",
+    "roles": ["admin", "editor"],
+    "is_active": true
+  },
+  {
+    "id": 102,
+    "user_name": "MariaL",
+    "roles": ["viewer"],
+    "is_active": false
+  },
+  {
+    "id": 103,
+    "user_name": "PedroP",
+    "roles": [],
+    "is_active": true
+  }
+]
