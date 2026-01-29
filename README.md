@@ -1,6 +1,6 @@
 # Proyecto Integrador: Análisis de Datos de Películas con Scala
 
-Este repositorio contiene el desarrollo del Proyecto Integrador de Programación Funcional. El objetivo es procesar, limpiar y analizar un dataset de películas (`pi_movies__complete.csv`) utilizando Scala y librerías del ecosistema funcional como **FS2**, **Circe** y **Doobie** para la lectura de datos, el manejo de estructuras JSON y la carga en base de datos relacional.
+Este repositorio contiene el desarrollo del Proyecto Integrador de Programación Funcional. El objetivo es procesar, limpiar y analizar un dataset de películas (`pi_movies_complete.csv`) utilizando Scala y librerías del ecosistema funcional como **FS2**, **Circe** y **Doobie** para la lectura de datos, el manejo de estructuras JSON y la carga en base de datos relacional.
 
 ## Estructura del Proyecto
 
