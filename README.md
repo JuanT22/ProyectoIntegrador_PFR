@@ -111,14 +111,3 @@ sbt run
 El sistema compilará las dependencias, procesará los archivos en `src/main/resources` y mostrará los resultados del análisis en la consola.
 
 ```
-
-***
-
-### 💡 Un último consejo (Next Step)
-Si en tu presentación el profesor te pregunta **"¿Por qué usaste `Option` o `Try` (o por qué no los usaste si quitamos el manejo de errores para simplificar)?"**, puedes responder:
-
-> *"En la carga de datos (`DataLoader`), aunque podríamos haber usado `Option` para cada campo, decidí usar `try/catch` bloqueante dentro del `flatMap` para descartar filas corruptas silenciosamente y asegurarme de que solo entren al sistema datos que cumplan con la estructura de la case class `Movie`. Esto garantiza que las funciones de análisis posteriores sean puras y no fallen."*
-
-¡Mucho éxito en la entrega, te va a ir genial!
-
-```
