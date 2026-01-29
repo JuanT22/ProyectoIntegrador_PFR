@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.B2-TRABAJOINTEGRADOR-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.B2-TRABAJOINTEGRADOR-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProyectoIntegrador_PFR/B2-TRABAJOINTEGRADOR.test.iml" />
+    </modules>
+  </component>
+</project>

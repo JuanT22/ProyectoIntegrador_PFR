@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="B2-TRABAJOINTEGRADOR,B2-TRABAJOINTEGRADOR.main,B2-TRABAJOINTEGRADOR.test,proyectointegrador_pfr_7576,proyectointegrador_pfr_7576.main,proyectointegrador_pfr_7576.test" />
+  </component>
+</project>
